@@ -1,0 +1,18 @@
+{
+  "id": "A09",
+  "name": "Ops Runbook",
+  "tagline": "Process Capture & Execution",
+  "overview": "Structured runbooks with owners, SLAs, and automation hooks.",
+  "category": "Operations / Knowledge",
+  "tech_stack": "Next.js, Node, Postgres",
+  "monetization": "Per\u2011seat SaaS",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Step\u2011by\u2011step runbooks",
+    "Integration steps",
+    "Audit trails"
+  ],
+  "operations": "1\u20132 hrs/week.",
+  "reason_for_sale": "Portfolio focus.",
+  "included": "Codebase, IP, domain, templates, docs."
+}

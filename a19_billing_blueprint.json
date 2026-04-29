@@ -1,0 +1,18 @@
+{
+  "id": "A19",
+  "name": "Billing Blueprint",
+  "tagline": "Billing Flow Designer",
+  "overview": "Blueprint and simulate billing flows end\u2011to\u2011end.",
+  "category": "Monetization / Billing",
+  "tech_stack": "Next.js, Node",
+  "monetization": "SaaS + consulting",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Trial/upgrade/proration flows",
+    "Refund/dunning flows",
+    "Exportable checklists"
+  ],
+  "operations": "1\u20133 hrs/week.",
+  "reason_for_sale": "Portfolio focus.",
+  "included": "Codebase, IP, domain, templates, docs."
+}

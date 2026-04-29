@@ -1,0 +1,18 @@
+{
+  "id": "A14",
+  "name": "SpecForge",
+  "tagline": "AI Product Spec Generator",
+  "overview": "AI\u2011assisted feature/epic spec generator.",
+  "category": "Product / Docs",
+  "tech_stack": "Next.js, OpenAI API",
+  "monetization": "SaaS",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Feature templates",
+    "Risk/dependency sections",
+    "Jira/Linear export"
+  ],
+  "operations": "1\u20132 hrs/week.",
+  "reason_for_sale": "Portfolio focus.",
+  "included": "Codebase, IP, domain, templates, docs."
+}

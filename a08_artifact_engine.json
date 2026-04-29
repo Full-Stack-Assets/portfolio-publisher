@@ -1,0 +1,18 @@
+{
+  "id": "A08",
+  "name": "Artifact Engine",
+  "tagline": "Investor Artifact Generator",
+  "overview": "Generates decks, memos, and one\u2011pagers from structured data.",
+  "category": "Docs / Automation",
+  "tech_stack": "Next.js, OpenAI API",
+  "monetization": "SaaS + credits",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Brand\u2011consistent templates",
+    "Version history",
+    "PDF/PPTX export"
+  ],
+  "operations": "1\u20133 hrs/week.",
+  "reason_for_sale": "Portfolio consolidation.",
+  "included": "Codebase, IP, domain, templates, docs."
+}

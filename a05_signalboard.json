@@ -1,0 +1,18 @@
+{
+  "id": "A05",
+  "name": "Signalboard",
+  "tagline": "Product Analytics Dashboard",
+  "overview": "Opinionated dashboards for activation, retention, and expansion.",
+  "category": "Analytics / Product",
+  "tech_stack": "Next.js, Node",
+  "monetization": "Usage\u2011tiered SaaS",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Cohorts + funnels",
+    "Anomaly alerts",
+    "Executive exports"
+  ],
+  "operations": "1\u20133 hrs/week.",
+  "reason_for_sale": "Portfolio consolidation.",
+  "included": "Codebase, IP, domain, dashboards, docs."
+}

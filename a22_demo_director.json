@@ -1,0 +1,18 @@
+{
+  "id": "A22",
+  "name": "Demo Director",
+  "tagline": "Demo Scripting & Follow\u2011Up",
+  "overview": "Guided demo scripts with personalization + recap emails.",
+  "category": "Sales / Enablement",
+  "tech_stack": "Next.js, Node, email API",
+  "monetization": "SaaS",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Persona\u2011specific demo flows",
+    "Notes + timestamps",
+    "CRM integration"
+  ],
+  "operations": "1\u20133 hrs/week.",
+  "reason_for_sale": "Portfolio focus.",
+  "included": "Codebase, IP, domain, templates, docs."
+}

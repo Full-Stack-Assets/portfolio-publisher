@@ -1,0 +1,18 @@
+{
+  "id": "A02",
+  "name": "Forge Pricing Lab",
+  "tagline": "Pricing Experimentation SaaS",
+  "overview": "Pricing sandbox for modeling plans, churn, and revenue scenarios.",
+  "category": "Monetization / Analytics",
+  "tech_stack": "Next.js, Python API, Postgres, Stripe",
+  "monetization": "SaaS \u2014 $59 / $149 / $399",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Revenue simulations",
+    "Scenario comparison",
+    "Exportable pricing pages"
+  ],
+  "operations": "1\u20132 hrs/week.",
+  "reason_for_sale": "Portfolio consolidation.",
+  "included": "Codebase, IP, domain, templates, docs."
+}

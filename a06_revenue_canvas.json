@@ -1,0 +1,18 @@
+{
+  "id": "A06",
+  "name": "Revenue Canvas",
+  "tagline": "Revenue Design & Modeling Tool",
+  "overview": "Visual canvas for designing subscriptions, usage, add\u2011ons, and marketplaces.",
+  "category": "Monetization / Strategy",
+  "tech_stack": "Next.js, Node, Postgres",
+  "monetization": "SaaS + model exports",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Drag\u2011and\u2011drop revenue blocks",
+    "Scenario modeling",
+    "Sensitivity analysis"
+  ],
+  "operations": "1\u20132 hrs/week.",
+  "reason_for_sale": "Portfolio rationalization.",
+  "included": "Codebase, IP, domain, templates, docs."
+}

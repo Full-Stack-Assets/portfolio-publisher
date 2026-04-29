@@ -1,0 +1,81 @@
+ID,Name,Tagline,Overview,Category,Tech stack,Monetization,Key Metrics,Highlights,Operations,Reason for Sale,Included
+A01,Taskflow Studio,Workflow Orchestration SaaS,Taskflow Studio orchestrates cross‑tool workflows from a single visual canvas.,Productivity / Workflow,"Next.js, Node, Postgres, Supabase, Stripe, OpenAI API",SaaS — $39 / $99 / $249,"Pre‑revenue, early access users.","Visual workflow builder
+Multi‑tool connectors
+Run history + approvals
+Investor‑ready artifacts included",1–2 hrs/week.,Portfolio focus.,"Codebase, IP, domain, docs, runbooks."
+A02,Forge Pricing Lab,Pricing Experimentation SaaS,"Pricing sandbox for modeling plans, churn, and revenue scenarios.",Monetization / Analytics,"Next.js, Python API, Postgres, Stripe",SaaS — $59 / $149 / $399,Pre‑revenue.,"Revenue simulations
+Scenario comparison
+Exportable pricing pages",1–2 hrs/week.,Portfolio consolidation.,"Codebase, IP, domain, templates, docs."
+A03,Continuum Insights,Portfolio Intelligence Command Center,"Aggregates KPIs, alerts, and digests across multiple products.",Analytics / Intelligence,"Next.js, Node, Postgres, CRON workers",SaaS — $99 / $249 / $599,Pre‑revenue.,"Multi‑product dashboards
+Competitive intel feeds
+Custom alerts",1–3 hrs/week.,Studio restructuring.,"Codebase, IP, domain, dashboards, docs."
+A04,Launchpad Pages,AI Landing Page Builder,AI‑assisted landing page generator with category templates.,Marketing / Landing Pages,"Next.js, Tailwind, OpenAI API",SaaS + template marketplace,Pre‑revenue.,"AI hero/problem/proof/pricing blocks
+Export to HTML/React",1–2 hrs/week.,Portfolio focus.,"Codebase, IP, domain, templates, docs."
+A05,Signalboard,Product Analytics Dashboard,"Opinionated dashboards for activation, retention, and expansion.",Analytics / Product,"Next.js, Node",Usage‑tiered SaaS,Pre‑revenue.,"Cohorts + funnels
+Anomaly alerts
+Executive exports",1–3 hrs/week.,Portfolio consolidation.,"Codebase, IP, domain, dashboards, docs."
+A06,Revenue Canvas,Revenue Design & Modeling Tool,"Visual canvas for designing subscriptions, usage, add‑ons, and marketplaces.",Monetization / Strategy,"Next.js, Node, Postgres",SaaS + model exports,Pre‑revenue.,"Drag‑and‑drop revenue blocks
+Scenario modeling
+Sensitivity analysis",1–2 hrs/week.,Portfolio rationalization.,"Codebase, IP, domain, templates, docs."
+A07,Dealroom Tracker,Lightweight Founder CRM,"Pipeline tool for buyers, investors, and leads.",Sales / CRM,"Next.js, Node, Postgres",Per‑seat SaaS,Pre‑revenue.,"Pipeline stages
+Email logging
+Forecasting",1–2 hrs/week.,Focus shift.,"Codebase, IP, domain, templates, docs"
+A08,Artifact Engine,Investor Artifact Generator,"Generates decks, memos, and one‑pagers from structured data.",Docs / Automation,"Next.js, OpenAI API",SaaS + credits,Pre‑revenue.,"Brand‑consistent templates
+Version history
+PDF/PPTX export",1–3 hrs/week.,Portfolio consolidation.,"Codebase, IP, domain, templates, docs."
+A09,Ops Runbook,Process Capture & Execution,"Structured runbooks with owners, SLAs, and automation hooks.",Operations / Knowledge,"Next.js, Node, Postgres",Per‑seat SaaS,Pre‑revenue.,"Step‑by‑step runbooks
+Integration steps
+Audit trails",1–2 hrs/week.,Portfolio focus.,"Codebase, IP, domain, templates, docs."
+A10,Briefsmith,Executive Brief Generator,Turns raw docs/emails/dashboards into crisp executive briefs.,Communication / Summarization,"Next.js, OpenAI API",Usage‑based SaaS,Pre‑revenue.,"Multi‑source ingestion
+Risk callouts
+Email‑ready exports",1–2 hrs/week.,Portfolio focus.,"Codebase, IP, domain, templates, docs."
+A11,Launch Queue,Launch Planning & Tracking,"Central launch calendar with assets, owners, and dependencies.",Marketing / Ops,"Next.js, Node, Postgres",SaaS,Pre‑revenue.,"Launch templates
+Asset checklists
+Timeline dependencies",1–2 hrs/week.,Portfolio rationalization.,"Codebase, IP, domain, templates, docs."
+A12,Churn Radar,Churn Prediction & Retention,Early‑warning churn detection using usage + billing signals.,Analytics / Retention,"Next.js, ML scoring",Usage‑tiered SaaS,Pre‑revenue.,"Health scoring
+At‑risk accounts
+Playbook suggestions
+CRM sync",2–4 hrs/week.,Portfolio focus.,"Codebase, IP, domain, models, docs."
+A13,Founder Console,Multi‑Product Command Center,"Unified console for metrics, tasks, and alerts across products.",Portfolio / Command Center,"Next.js, Node, Postgres",SaaS,Pre‑revenue.,"Cross‑product KPIs
+Task inbox
+Alert routing
+Investor‑view mode",2–4 hrs/week.,Studio restructuring.,"Codebase, IP, domain, dashboards, docs."
+A14,SpecForge,AI Product Spec Generator,AI‑assisted feature/epic spec generator.,Product / Docs,"Next.js, OpenAI API",SaaS,Pre‑revenue.,"Feature templates
+Risk/dependency sections
+Jira/Linear export",1–2 hrs/week.,Portfolio focus.,"Codebase, IP, domain, templates, docs."
+A15,Signal Digest,Automated Competitor Intelligence,Weekly automated competitor + market digests.,Intelligence / Research,"Next.js, crawlers, OpenAI API",SaaS + premium feeds,Pre‑revenue.,"Watchlists
+Change detection
+Weekly digests
+Slide exports",2–4 hrs/week.,Portfolio focus.,"Codebase, IP, domain, crawlers, docs."
+A16,Pipeline Pages,Deal Microsite Generator,"Deal‑ready microsites with metrics, assets, and tracking.",Sales / Collateral,"Next.js, Node",SaaS,Pre‑revenue.,"Metrics snapshots
+Asset library
+View tracking",1–3 hrs/week.,Portfolio consolidation.,"Codebase, IP, domain, templates, docs."
+A17,Metric Map,Metric Catalog & Governance,"Central metric definitions, lineage, and ownership.",Analytics / Governance,"Next.js, Node, Postgres",SaaS,Pre‑revenue.,"Metric definitions
+Ownership + review cycles
+Dashboard mapping",1–2 hrs/week.,Portfolio focus.,"Codebase, IP, domain, templates, docs."
+A18,Session Studio,Session Replay & UX Insights,Session replay with event‑level insights and issue clips.,Analytics / UX,"JS SDK, ingestion backend, Next.js",Usage‑based SaaS,Pre‑revenue.,"Session recordings
+Event tagging
+Rage‑click detection
+Issue clips",3–5 hrs/week.,Portfolio focus.,"Codebase, IP, domain, SDK, ingestion pipeline, docs."
+A19,Billing Blueprint,Billing Flow Designer,Blueprint and simulate billing flows end‑to‑end.,Monetization / Billing,"Next.js, Node",SaaS + consulting,Pre‑revenue.,"Trial/upgrade/proration flows
+Refund/dunning flows
+Exportable checklists",1–3 hrs/week.,Portfolio focus.,"Codebase, IP, domain, templates, docs."
+A20,Support Atlas,Support Analytics & Insights,Turns support tickets into product insights.,Support / Analytics,"Next.js, OpenAI API",SaaS,Pre‑revenue.,"Topic clustering
+Impact scoring
+Product feedback views
+Helpdesk integrations",2–4 hrs/week.,Portfolio simplification.,"Codebase, IP, domain, clustering prompts, docs."
+A21,Playbook Hub,GTM Playbook Repository,Centralized GTM playbooks with usage analytics.,GTM / Knowledge,"Next.js, Node, Postgres",SaaS,Pre‑revenue.,"Play templates
+Role‑specific views
+Performance tagging",1–2 hrs/week.,Portfolio focus.,"Codebase, IP, domain, templates, docs."
+A22,Demo Director,Demo Scripting & Follow‑Up,Guided demo scripts with personalization + recap emails.,Sales / Enablement,"Next.js, Node, email API",SaaS,Pre‑revenue.,"Persona‑specific demo flows
+Notes + timestamps
+CRM integration",1–3 hrs/week.,Portfolio focus.,"Codebase, IP, domain, templates, docs."
+A23,Asset Vault,Central Asset Library,"Centralized library for tagging, versioning, and sharing assets.",Content / Storage,"Next.js, object storage, Postgres",Storage‑tiered SaaS,Pre‑revenue.,"Tagging + collections
+Versioning
+Access control",1–2 hrs/week.,Portfolio focus.,"Codebase, IP, domain, taxonomy, docs."
+A24,Investor Relay,Investor Update Automation,Automates investor updates with metric pulls and narrative suggestions.,Investor Relations,"Next.js, OpenAI API",SaaS,Pre‑revenue.,"Update templates
+Metric auto‑pulls
+Distribution tracking",1–2 hrs/week.,Portfolio consolidation.,"Codebase, IP, domain, templates, docs."
+A25,Portfolio Market,Portfolio Storefront & Deal Hub,Public storefront for showcasing and selling multiple SaaS assets.,Marketplace / Sales,"Next.js, Node, Stripe",SaaS + success fees,Pre‑revenue.,"Public listings
+Metrics snapshots
+Inquiry + NDA flows",2-4 hrs/week.,Portfolio focus.,"Codebase, IP, domain, marketplace logic, docs."

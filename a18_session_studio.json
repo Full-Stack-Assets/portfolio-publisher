@@ -1,0 +1,19 @@
+{
+  "id": "A18",
+  "name": "Session Studio",
+  "tagline": "Session Replay & UX Insights",
+  "overview": "Session replay with event\u2011level insights and issue clips.",
+  "category": "Analytics / UX",
+  "tech_stack": "JS SDK, ingestion backend, Next.js",
+  "monetization": "Usage\u2011based SaaS",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Session recordings",
+    "Event tagging",
+    "Rage\u2011click detection",
+    "Issue clips"
+  ],
+  "operations": "3\u20135 hrs/week.",
+  "reason_for_sale": "Portfolio focus.",
+  "included": "Codebase, IP, domain, SDK, ingestion pipeline, docs."
+}

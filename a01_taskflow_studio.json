@@ -1,0 +1,19 @@
+{
+  "id": "A01",
+  "name": "Taskflow Studio",
+  "tagline": "Workflow Orchestration SaaS",
+  "overview": "Taskflow Studio orchestrates cross\u2011tool workflows from a single visual canvas.",
+  "category": "Productivity / Workflow",
+  "tech_stack": "Next.js, Node, Postgres, Supabase, Stripe, OpenAI API",
+  "monetization": "SaaS \u2014 $39 / $99 / $249",
+  "metrics": "Pre\u2011revenue, early access users.",
+  "highlights": [
+    "Visual workflow builder",
+    "Multi\u2011tool connectors",
+    "Run history + approvals",
+    "Investor\u2011ready artifacts included"
+  ],
+  "operations": "1\u20132 hrs/week.",
+  "reason_for_sale": "Portfolio focus.",
+  "included": "Codebase, IP, domain, docs, runbooks."
+}

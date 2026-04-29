@@ -1,0 +1,18 @@
+{
+  "id": "A16",
+  "name": "Pipeline Pages",
+  "tagline": "Deal Microsite Generator",
+  "overview": "Deal\u2011ready microsites with metrics, assets, and tracking.",
+  "category": "Sales / Collateral",
+  "tech_stack": "Next.js, Node",
+  "monetization": "SaaS",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Metrics snapshots",
+    "Asset library",
+    "View tracking"
+  ],
+  "operations": "1\u20133 hrs/week.",
+  "reason_for_sale": "Portfolio consolidation.",
+  "included": "Codebase, IP, domain, templates, docs."
+}
