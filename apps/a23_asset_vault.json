@@ -1,0 +1,18 @@
+{
+  "id": "A23",
+  "name": "Asset Vault",
+  "tagline": "Central Asset Library",
+  "overview": "Centralized library for tagging, versioning, and sharing assets.",
+  "category": "Content / Storage",
+  "tech_stack": "Next.js, object storage, Postgres",
+  "monetization": "Storage\u2011tiered SaaS",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Tagging + collections",
+    "Versioning",
+    "Access control"
+  ],
+  "operations": "1\u20132 hrs/week.",
+  "reason_for_sale": "Portfolio focus.",
+  "included": "Codebase, IP, domain, taxonomy, docs."
+}

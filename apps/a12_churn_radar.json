@@ -1,0 +1,19 @@
+{
+  "id": "A12",
+  "name": "Churn Radar",
+  "tagline": "Churn Prediction & Retention",
+  "overview": "Early\u2011warning churn detection using usage + billing signals.",
+  "category": "Analytics / Retention",
+  "tech_stack": "Next.js, ML scoring",
+  "monetization": "Usage\u2011tiered SaaS",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Health scoring",
+    "At\u2011risk accounts",
+    "Playbook suggestions",
+    "CRM sync"
+  ],
+  "operations": "2\u20134 hrs/week.",
+  "reason_for_sale": "Portfolio focus.",
+  "included": "Codebase, IP, domain, models, docs."
+}

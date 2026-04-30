@@ -1,0 +1,19 @@
+{
+  "id": "A13",
+  "name": "Founder Console",
+  "tagline": "Multi\u2011Product Command Center",
+  "overview": "Unified console for metrics, tasks, and alerts across products.",
+  "category": "Portfolio / Command Center",
+  "tech_stack": "Next.js, Node, Postgres",
+  "monetization": "SaaS",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Cross\u2011product KPIs",
+    "Task inbox",
+    "Alert routing",
+    "Investor\u2011view mode"
+  ],
+  "operations": "2\u20134 hrs/week.",
+  "reason_for_sale": "Studio restructuring.",
+  "included": "Codebase, IP, domain, dashboards, docs."
+}

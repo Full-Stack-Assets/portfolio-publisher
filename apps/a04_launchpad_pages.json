@@ -1,0 +1,17 @@
+{
+  "id": "A04",
+  "name": "Launchpad Pages",
+  "tagline": "AI Landing Page Builder",
+  "overview": "AI\u2011assisted landing page generator with category templates.",
+  "category": "Marketing / Landing Pages",
+  "tech_stack": "Next.js, Tailwind, OpenAI API",
+  "monetization": "SaaS + template marketplace",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "AI hero/problem/proof/pricing blocks",
+    "Export to HTML/React"
+  ],
+  "operations": "1\u20132 hrs/week.",
+  "reason_for_sale": "Portfolio focus.",
+  "included": "Codebase, IP, domain, templates, docs."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "A20",
+  "name": "Support Atlas",
+  "tagline": "Support Analytics & Insights",
+  "overview": "Turns support tickets into product insights.",
+  "category": "Support / Analytics",
+  "tech_stack": "Next.js, OpenAI API",
+  "monetization": "SaaS",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Topic clustering",
+    "Impact scoring",
+    "Product feedback views",
+    "Helpdesk integrations"
+  ],
+  "operations": "2\u20134 hrs/week.",
+  "reason_for_sale": "Portfolio simplification.",
+  "included": "Codebase, IP, domain, clustering prompts, docs."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "A07",
+  "name": "Dealroom Tracker",
+  "tagline": "Lightweight Founder CRM",
+  "overview": "Pipeline tool for buyers, investors, and leads.",
+  "category": "Sales / CRM",
+  "tech_stack": "Next.js, Node, Postgres",
+  "monetization": "Per\u2011seat SaaS",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Pipeline stages",
+    "Email logging",
+    "Forecasting"
+  ],
+  "operations": "1\u20132 hrs/week.",
+  "reason_for_sale": "Focus shift.",
+  "included": "Codebase, IP, domain, templates, docs"
+}

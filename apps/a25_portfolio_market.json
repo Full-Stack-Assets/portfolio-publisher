@@ -1,0 +1,18 @@
+{
+  "id": "A25",
+  "name": "Portfolio Market",
+  "tagline": "Portfolio Storefront & Deal Hub",
+  "overview": "Public storefront for showcasing and selling multiple SaaS assets.",
+  "category": "Marketplace / Sales",
+  "tech_stack": "Next.js, Node, Stripe",
+  "monetization": "SaaS + success fees",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Public listings",
+    "Metrics snapshots",
+    "Inquiry + NDA flows"
+  ],
+  "operations": "2-4 hrs/week.",
+  "reason_for_sale": "Portfolio focus.",
+  "included": "Codebase, IP, domain, marketplace logic, docs."
+}

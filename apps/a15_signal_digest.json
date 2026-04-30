@@ -1,0 +1,19 @@
+{
+  "id": "A15",
+  "name": "Signal Digest",
+  "tagline": "Automated Competitor Intelligence",
+  "overview": "Weekly automated competitor + market digests.",
+  "category": "Intelligence / Research",
+  "tech_stack": "Next.js, crawlers, OpenAI API",
+  "monetization": "SaaS + premium feeds",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Watchlists",
+    "Change detection",
+    "Weekly digests",
+    "Slide exports"
+  ],
+  "operations": "2\u20134 hrs/week.",
+  "reason_for_sale": "Portfolio focus.",
+  "included": "Codebase, IP, domain, crawlers, docs."
+}

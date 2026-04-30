@@ -1,0 +1,18 @@
+{
+  "id": "A21",
+  "name": "Playbook Hub",
+  "tagline": "GTM Playbook Repository",
+  "overview": "Centralized GTM playbooks with usage analytics.",
+  "category": "GTM / Knowledge",
+  "tech_stack": "Next.js, Node, Postgres",
+  "monetization": "SaaS",
+  "metrics": "Pre\u2011revenue.",
+  "highlights": [
+    "Play templates",
+    "Role\u2011specific views",
+    "Performance tagging"
+  ],
+  "operations": "1\u20132 hrs/week.",
+  "reason_for_sale": "Portfolio focus.",
+  "included": "Codebase, IP, domain, templates, docs."
+}
